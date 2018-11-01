@@ -166,6 +166,14 @@ namespace SingleResponsibilityPrinciple
             StoreTrades(trades);
         }
 
+        public void ProcessTrades(Stream stream)
+        {
+            var lines = ReadTradeData(stream);
+            var trades = ParseTrades(lines);
+            StoreTrades(trades);
+        }
+
+
 
     }
 }
