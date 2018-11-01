@@ -86,7 +86,11 @@ namespace SingleResponsibilityPrinciple
 
         private void LogMessage(string msgType, string message, params object[] args)
         {
-            Console.WriteLine(msgType+ " :" +message, args);
+            Console.WriteLine(msgType + ": " + message, args);
+            using (StreamWriter logfile = File.AppendText("log.xml"))
+            {
+                logfile.WriteLine("<log><type>" + msgType + "</type><message>" + message + "</message></log> ", args);
+            }
         }
 
         private TradeRecord MapTradeDataToTradeRecord(string[] fields)
