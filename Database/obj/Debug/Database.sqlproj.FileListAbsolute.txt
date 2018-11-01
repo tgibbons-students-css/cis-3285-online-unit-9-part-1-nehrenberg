@@ -3,3 +3,8 @@ C:\Users\tgibbons\source\repos\cis-3285-unit-9-practice-tgibbons-css\Database\bi
 C:\Users\tgibbons\source\repos\cis-3285-unit-9-practice-tgibbons-css\Database\bin\Debug\Database.pdb
 C:\Users\tgibbons\source\repos\cis-3285-unit-9-practice-tgibbons-css\Database\obj\Debug\Database.dll
 C:\Users\tgibbons\source\repos\cis-3285-unit-9-practice-tgibbons-css\Database\obj\Debug\Database.pdb
+C:\Users\nehrenberg\Source\Repos\cis-3285-online-unit-9-part-1-nehrenberg\Database\bin\Debug\Database.dacpac
+C:\Users\nehrenberg\Source\Repos\cis-3285-online-unit-9-part-1-nehrenberg\Database\bin\Debug\Database.dll
+C:\Users\nehrenberg\Source\Repos\cis-3285-online-unit-9-part-1-nehrenberg\Database\bin\Debug\Database.pdb
+C:\Users\nehrenberg\Source\Repos\cis-3285-online-unit-9-part-1-nehrenberg\Database\obj\Debug\Database.dll
+C:\Users\nehrenberg\Source\Repos\cis-3285-online-unit-9-part-1-nehrenberg\Database\obj\Debug\Database.pdb
